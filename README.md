@@ -12,23 +12,33 @@ menerapkan algoritma kriptografi AES-256-CBC pada proses penyimpanan data ke dal
 - Mendukung pembuktian konsep (prototype) pada penelitian/jurnal
 
 ## Teknologi yang Digunakan
-- PHP
-- MySQL
-- HTML, CSS, JavaScript
-- XAMPP
-- Algoritma Enkripsi AES-256-CBC
+- **Backend:** PHP 
+- **Database:** MySQL / MariaDB
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Server:** XAMPP (Apache + MySQL)
+- **Enkripsi:** OpenSSL Library (AES-256-CBC)
 
 ## Fitur Utama
 - Manajemen data pemesanan pelanggan
 - Enkripsi data sensitif menggunakan AES-256-CBC
-- Penyimpanan data terenkripsi ke database
-- Autentikasi admin
+- Penyimpanan data terenkripsi ke database MySQL
+- Dekripsi data untuk tampilan admin
+- Sistem autentikasi admin
+- Dashboard admin untuk monitoring pesanan
 
-## Catatan Keamanan
-Kunci enkripsi yang terdapat pada berkas konfigurasi digunakan
-hanya untuk keperluan percobaan dan dokumentasi akademik.
-Kunci tersebut tidak digunakan pada sistem produksi dan dapat
-diganti sewaktu-waktu.
+## **Data yang Dienkripsi:**
+- Nama pelanggan
+- Nomor telepon
+- Alamat pengiriman
+
+## **Algoritma: AES-256-CBC**
+- **Key Size:** 256 bit (32 karakter)
+- **Block Size:** 128 bit
+- **Mode:** CBC (Cipher Block Chaining)
+- **IV:** Random (16 bytes) untuk setiap enkripsi
+  
+
+
 
 
 
