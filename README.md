@@ -26,6 +26,7 @@ menerapkan algoritma kriptografi AES-256-CBC pada proses penyimpanan data ke dal
 - Dekripsi data untuk tampilan admin
 - Sistem autentikasi admin
 - Dashboard admin untuk monitoring pesanan
+- Analisis keamanan dengan Entropi Shannon
 
 ## **Data yang Dienkripsi:**
 - Nama pelanggan
@@ -37,6 +38,8 @@ menerapkan algoritma kriptografi AES-256-CBC pada proses penyimpanan data ke dal
 - **Block Size:** 128 bit
 - **Mode:** CBC (Cipher Block Chaining)
 - **IV:** Random (16 bytes) untuk setiap enkripsi
+
+  
   
 
 
