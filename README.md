@@ -2,9 +2,7 @@
 (Studi Kasus: UMKM Siti Furniture)    
 <img width="445" height="298" alt="Screenshot 2026-01-08 205523" src="https://github.com/user-attachments/assets/325f4b17-8046-4576-8960-69ca340594a7" />
 
-Repository ini berisi source code aplikasi berbasis web yang digunakan sebagai pendukung penelitian dengan judul *Pengamanan Data Pemesanan Pelanggan
-Menggunakan Algoritma AES-256-CBC (Studi Kasus pada UMKM Siti Furniture)*. Aplikasi ini dirancang untuk mengamankan data pemesanan pelanggan dengan
-menerapkan algoritma kriptografi AES-256-CBC pada proses penyimpanan data ke dalam basis data. 
+Repository ini berisi source code aplikasi web native yang digunakan sebagai pendukung penelitian dengan judul “Pengamanan Data Pemesanan Pelanggan Menggunakan Algoritma AES-256-CBC (Studi Kasus pada UMKM Siti Furniture)”. Aplikasi ini dikembangkan secara native menggunakan PHP dan MySQL tanpa framework, serta dirancang untuk mengamankan data pemesanan pelanggan dengan menerapkan algoritma kriptografi AES-256-CBC pada proses penyimpanan data ke dalam basis data.
 
 ## Tujuan
 - Mengimplementasikan algoritma AES-256-CBC untuk pengamanan data pelanggan
