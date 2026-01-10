@@ -1,6 +1,5 @@
 <?php
-require_once 'config.php';
-requireAdmin();
+require_once 'config/config.php';requireAdmin();
 
 // Get all orders with decryption
 $conn = getDBConnection();
@@ -407,7 +406,7 @@ $conn->close();
         </div>
 
         <div class="footer">
-            <p>&copy; 2024 Siti Furniture Admin Panel</p>
+            <p>&copy; 2026 Siti Furniture Admin Panel</p>
         </div>
     </div>
 </body>

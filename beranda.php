@@ -12,6 +12,10 @@
             <a href="admin_login.php" class="admin-link">🔐 Admin Login</a>
             <h1>🪑 Siti Furniture</h1>
             <p>Mebel Kayu Berkualitas untuk Rumah Anda</p>
+
+            <span class="security-badge">
+        🔒 Data Terenkripsi AES-256-CBC
+    </span>
         </header>
 
         <nav>
@@ -50,9 +54,10 @@
             </div>
         </div>
 
-        <div class="footer">
-            <p>&copy; 2024 Siti Furniture. Website Katalog dan Pemesanan Online.</p>
-        </div>
+       <div class="footer">
+    <p>&copy; 2026 Siti Furniture. Website Katalog dan Pemesanan Online</p>
+    <p>Penelitian UAS Sistem Informasi UMKM Mebel dengan Enkripsi AES-256-CBC</p>
+</div>
     </div>
 </body>
 </html>

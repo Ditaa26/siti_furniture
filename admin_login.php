@@ -1,7 +1,7 @@
 <?php
 // admin_login.php - Admin Login Page
 
-require_once 'config.php';
+require_once 'config/config.php';
 
 // Redirect if already logged in
 if (isAdminLoggedIn()) {

@@ -1,5 +1,5 @@
 <?php
-require_once 'config.php';
+require_once 'config/config.php';
 
 echo "<h2>Demonstrasi Enkripsi AES-256-CBC dengan Random IV</h2>";
 echo "<p><strong>Tujuan:</strong> Menunjukkan bahwa data yang sama menghasilkan ciphertext berbeda karena IV random</p>";

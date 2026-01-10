@@ -1,6 +1,6 @@
 <?php
 // view_orders.php - Tampilkan Data Orders dari Database
-require_once 'config.php';
+require_once 'config/config.php';
 
 // Get all orders from database
 $conn = getDBConnection();
