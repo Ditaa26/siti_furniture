@@ -10,6 +10,7 @@ menerapkan algoritma kriptografi AES-256-CBC pada proses penyimpanan data ke dal
 - Mengimplementasikan algoritma AES-256-CBC untuk pengamanan data pelanggan
 - Meningkatkan kerahasiaan data pemesanan pada UMKM
 - Mendukung pembuktian konsep (prototype) pada penelitian/jurnal
+- Mendemonstrasikan penerapan kriptografi dalam aplikasi web nyata
 
 ## Teknologi yang Digunakan
 - **Backend:** PHP 
